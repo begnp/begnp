@@ -1,15 +1,15 @@
 ### Olá! Eu sou Bernardo Guimarães.
 
-- 🔭 Sou estudante e estou explorando as diversas áreas da programação.
-- 🌱 Estudando C#
+- 🔭 Sou estudante de Ciência da Computação e estou explorando os diversos segmentos da área Tech.
+- 🌱 Estudando essencialmente Java e Python
 - 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bernardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bernardo-Java" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Bernardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bernardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
