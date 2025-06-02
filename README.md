@@ -1,8 +1,11 @@
 ### Olá! Eu sou Bernardo Guimarães.
 
-- 🔭 Sou estudante de Ciência da Computação e estou explorando os diversos segmentos da área Tech.
+- 🔭 Sou estudante de Ciência da Computação, estou explorando os diversos segmentos da área Tech
+  e estou comprometido em aprender e aprimorar processos para atingir a melhor performance.
 - 🌱 Estudando essencialmente Java e Python
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
+- 📝 Possuo habilidades técnicas em desenvolvimento de software e desenvolvimento web, além de
+  suporte e manutenção de computadores e redes locais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bernardo-Java" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
