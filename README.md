@@ -1,4 +1,4 @@
-### Olá! Eu sou Bernardo Guimarães.
+## E aí? Me chamo Bernardo Guimarães
 
 - 🔭 Sou estudante de Ciência da Computação, estou explorando os diversos segmentos da área Tech<br>e estou comprometido em aprender e aprimorar processos para atingir a melhor performance.
 - 🌱 Estudando essencialmente Java e Python
